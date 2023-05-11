@@ -1,5 +1,9 @@
 # Football-Match-Winning-Prediction
 
+This Project learns and predicts the outcomes of English Premier League
+Matches using Machine Learning Techniques. A complete report is attached
+in the github files list.
+
 ## Abstract:
 
 This project presents an extension of earlier work in using artificial
